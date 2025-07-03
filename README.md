@@ -27,7 +27,7 @@ git clone https://github.com/yourusername/cnn-attendance-system.git
 cd cnn-attendance-system
 pip install -r requirements.txt
 
-## Project Structure 📂
+## Project Structure
 text
 ├── dataset/            # Training images
 ├── models/             # Saved CNN models
