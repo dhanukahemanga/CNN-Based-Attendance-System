@@ -26,12 +26,3 @@ An automated attendance system using facial recognition with Convolutional Neura
 git clone https://github.com/yourusername/cnn-attendance-system.git
 cd cnn-attendance-system
 pip install -r requirements.txt
-
-## Project Structure
-text
-├── dataset/            # Training images
-├── models/             # Saved CNN models
-├── attendance_records/ # Generated CSV logs
-├── train_model.py      # Model training script
-├── attendance_system.py # Main application
-└── requirements.txt    # Dependencies
