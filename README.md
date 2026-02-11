@@ -1,4 +1,4 @@
-# CNN-Based Face Recognition Attendance System 👨💻📊
+# CNN-Based Face Recognition Attendance System 💻📊
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![OpenCV](https://img.shields.io/badge/OpenCV-4.5%2B-orange)
@@ -7,21 +7,21 @@
 
 An automated attendance system using facial recognition with Convolutional Neural Networks (CNN). Detects faces in real-time and logs attendance to CSV with timestamps.
 
-## Key Features ✨
+## Key Features 
 - Real-time face detection and recognition
 - CNN model trained with ~60% accuracy
 - Haar Cascades for face detection preprocessing
 - Automatic attendance logging to CSV
 - Lightweight and scalable design
 
-## Tech Stack 🛠️
+## Tech Stack 
 - **Python 3.8+**
 - **OpenCV** (for face detection and image processing)
 - **TensorFlow/Keras** (CNN model implementation)
 - **Pandas** (for attendance records)
 - **NumPy** (numerical operations)
 
-## Installation ⚙️
+## Installation
 ```bash
 git clone https://github.com/yourusername/cnn-attendance-system.git
 cd cnn-attendance-system
